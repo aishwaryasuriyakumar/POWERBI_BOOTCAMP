@@ -1,0 +1,151 @@
+What is Power BI?
+        Power BI is a business intelligence tool by Microsoft used to:
+            Analyze data 
+            Create interactive dashboards
+            Find insights & trends
+            Share reports with teams or managers
+        Companies use Power BI for sales, finance, HR, marketing, operations, and analytics roles.
+---------------------------------------------------------------------------------------------------------------------------------------------------
+Where Power BI is Used?
+        The main purpose of Power BI is to convert raw data into meaningful insights that help people make better decisions.
+        Power BI in roles like:
+            Data Analyst
+            Business Analyst
+            Power BI Developer
+            MIS Executive
+            Management / MBA analytics roles.
+-----------------------------------------------------------------------------------------------------------------------------------------------------
+Power BI Components:
+    Power BI has 3 main parts:
+        1️.Power BI Desktop – where we create reports 
+        2️.Power BI Service – online (cloud) sharing
+        3️.Power BI Mobile – view dashboards on phone.
+
+Core building blocks of Power BI Desktop:
+
+1.Ribbon:
+    Location: Very top of Power BI Desktop
+
+What is Ribbon?
+        The Ribbon is the control panel of Power BI. It contains all major commands.
+
+Main Tabs in Ribbon:
+        Home – Get data, transform data, add visuals
+        Insert – Add charts, text boxes, images
+        Modeling – Create measures, columns, relationships
+        View – Change layout, themes, panes
+        Help – Learning & support
+
+Purpose:
+        Used to import data, format reports, create DAX measures, and control visuals.
+
+
+2.Views (Left Side Icons)
+Location: Left vertical bar
+
+Power BI has 3 main views:
+1. Report View 
+    Default view
+        Where you create charts and dashboards
+        Uses canvas, visuals, filters
+        Most of your work happens here.
+
+2. Data View 
+    Shows data in table format
+        Like Excel rows & columns
+        Used to check values and data types
+        No visuals here, only data.
+
+3. Model View   
+    Shows relationships between tables
+        Used for data modeling
+        Helps connect tables using keys
+        Very important for large projects.
+
+3️.Canvas (Report Area)
+Location: Center white area
+
+What is Canvas?
+        The Canvas is the workspace where you design your report.
+
+Purpose:
+        Place charts
+        Resize visuals
+        Arrange dashboard layout
+        Think of it as a blank page where visuals live.
+
+4.Page Selectors (Bottom Tabs)
+Location: Bottom of the screen
+
+What are Page Selectors?
+        They allow you to:
+            Add multiple report pages
+            Switch between pages
+
+Example:
+    Page 1 → Sales Overview
+    Page 2 → Product Analysis
+    Page 3 → Region Performance
+
+5️.Filters Pane 
+Location: Right side
+
+What are Filters?
+        Filters control what data is shown in visuals.
+
+Types of Filters:
+        Visual-level filter – Affects only one chart
+        Page-level filter – Affects all visuals on a page
+        Report-level filter – Affects entire report
+
+Purpose:
+        Used to narrow down data (example: Year = 2025, Region = South).
+
+6️.Visualization Pane 
+Location: Right side (middle)
+
+What is Visualization Pane?
+        This pane contains all chart types.
+
+Examples:
+        Bar chart
+        Line chart
+        Pie chart
+        Table
+        Card
+        Map
+        Slicer
+
+Purpose:
+        Choose chart type
+        Format visuals (color, labels, title)
+        Add values, axis, legends
+        This is where charts are built.
+
+7️.Fields Pane
+Location: Right side (bottom)
+
+What is Fields Pane?
+        It shows:
+            Tables
+            Columns
+            Measures
+            Imported from your data source.
+
+Purpose:
+    Drag columns into visuals
+    Use fields for filters
+    Create calculations
+    This is your data source panel.
+
+How All These Work Together (Simple Flow)
+
+1️. Import data using Ribbon
+2️. View data in Data View
+3️. Create relationships in Model View
+4️. Build charts on Canvas
+5️. Use Visualizations to choose chart type
+6️. Drag data from Fields
+7️. Control output using Filters
+8. Organize using Page Selectors            
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
