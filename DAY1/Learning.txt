@@ -149,3 +149,15 @@ How All These Work Together (Simple Flow)
 7️. Control output using Filters
 8. Organize using Page Selectors            
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+What is Power Query?
+        Power Query is a data cleaning and data transformation tool in Power BI (by Microsoft).
+        It is used to prepare raw data before creating reports.
+
+Use of Power Query:    
+        1️.Remove Unwanted Data
+        2️.Change Data Types
+        3️.Rename Columns
+        4️.Filter Rows
+        5️.Split & Merge Columns
+        6️.Add New Columns
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
